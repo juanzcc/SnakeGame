@@ -1,5 +1,8 @@
 # Snake Game
 
+Feito utilizando javascript, html e css. Baseado no famoso jogo da "cobrinha".
+
+snakegamezcc.netlify.app
 
 # Autor
 
